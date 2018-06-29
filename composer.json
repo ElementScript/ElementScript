@@ -1,12 +1,13 @@
 {
-    "name": "ElementScript",
+    "name": "ElementScript/ElementScript",
     "version": "0.0.1",
     "authors": [
         "Filipe Machado"
     ],
     "autoload": {
         "psr-4": {
-            "App\\": ""
+            "App\\Lib\\": "app/system/classes/",
+            "App\\Interop\\": "app/interop/"
         }
     }
 }
