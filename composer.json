@@ -1,0 +1,12 @@
+{
+    "name": "ElementScript",
+    "version": "0.0.1",
+    "authors": [
+        "Filipe Machado"
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    }
+}
